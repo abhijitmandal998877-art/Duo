@@ -1,0 +1,6 @@
+{
+  "name": "Duo",
+  "description": "Voice-Activated Business Calculator Assistant for shopkeepers and merchants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

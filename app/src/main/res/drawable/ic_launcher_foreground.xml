@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Speech Bubble / Voice Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C37.4,24 24,37.4 24,54 C24,63 28,71 34.4,76.5 L30,88 L42.5,84.5 C46,85.5 49.9,86 54,86 C70.6,86 84,72.6 84,54 C84,37.4 70.6,24 54,24 Z" />
+        
+    <!-- Math Operator Plus (+) inside Speech Bubble -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M51,46 L51,38 L43,38 L43,34 L51,34 L51,26 L55,26 L55,34 L63,34 L63,38 L55,38 L55,46 Z" />
+        
+    <!-- Math Operator Equal (=) inside Speech Bubble -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M40,64 L64,64 L64,60 L40,60 Z M40,54 L64,54 L64,50 L40,50 Z" />
+        
+</vector>
